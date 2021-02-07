@@ -1,6 +1,9 @@
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
+project/__pycache__/
+project/__pycache__/*
+chat/__pycache__/*
 *.py[cod]
 *$py.class
 
@@ -139,6 +142,7 @@ dmypy.json
 .prof
 
 ### vscode ###
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
