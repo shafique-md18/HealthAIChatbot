@@ -11,7 +11,8 @@ You can host it on [Heroku](https://www.heroku.com) for free ([account verificat
  - Install new vitural env and install everything `pip install -r requirements.txt`
  - Install [redis-server](https://redis.io/download). For debian based linux: `apt install redis-server`
  - `export DJANGO_SECRET_KEY="somesecretkey"`
- - `export REDIS_URL="redis://127.0.0.1:6379/"`
+ - make sure `DEBUG=True` in settings.py
+ - run celery app: `celery -A project worker -l INFO`
  - `python manage.py runserver`
 
 ## Technology Stack
