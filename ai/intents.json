@@ -1,11 +1,5 @@
 {"intents": [
         {
-            "tag": "greet_new",
-            "patterns": [],
-            "responses": ["Hello, I am HealthAI. How can I help you?"],
-            "context": [""]
-        },
-        {
             "tag": "introduction",
             "patterns": ["Who are you", "Tell me about who", "Who is HealthAI"],
             "responses": ["Hello, I am HealthAI your personal health assistant. I am here to help you with your health needs. I can help you identify diseases, locate nearest hospital, bloodbank and pharmacy for you, you can also ask me to calculate your BMI, and a lot more things."],
@@ -23,12 +17,12 @@
         },
         {"tag": "thanks",
          "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
-         "responses": ["Happy to help!", "Any time!", "My pleasure"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure!"],
          "context": [""]
         },
         {"tag": "noanswer",
          "patterns": [],
-         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+         "responses": ["Sorry, couldn't understand you", "Please give me more info", "Not sure I understand"],
          "context": [""]
         },
         {"tag": "options",
