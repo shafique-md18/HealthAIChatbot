@@ -13,14 +13,24 @@
         wss_protocol + window.location.host + '/ws/chat/'
         );
 
+    function updateChatLog(sender, msgs) {
+        msgs.forEach(m => {
+            document.querySelector('#chat-log').value += ('[' + sender + ']: ' + m + '\n');
+        }); 
+    }
+
     chatSocket.onopen = function(e) {
-        document.querySelector('#chat-log').value += ('Welcome to the Django Chatbot.\nPlease type `help` for the commands list.\n')    
+        updateChatLog('bot', [
+            'Hello, I am HealthAI.',
+            'Your personal health assistant.',
+            'How can I help you?'
+        ]);   
     }
 
     chatSocket.onmessage = function(e) {
         var data = JSON.parse(e.data);
         var message = data['message'];  
-        document.querySelector('#chat-log').value += (message + '\n');
+        updateChatLog('bot', [message]);
     };
 
     chatSocket.onclose = function(e) {
@@ -40,7 +50,7 @@
         chatSocket.send(JSON.stringify({
             'message': message
         }));
-
+        updateChatLog('user', [message]);
         messageInputDom.value = '';
     };
 </script>

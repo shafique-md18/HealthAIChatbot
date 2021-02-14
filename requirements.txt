@@ -9,3 +9,6 @@ psycopg2-binary==2.8.4
 redis==3.3.11
 requests==2.22.0
 whitenoise==5.0.1
+tensorflow==2.4.1
+keras==2.4.3
+nltk==3.5
