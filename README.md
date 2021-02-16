@@ -23,6 +23,10 @@ You can host it on [Heroku](https://www.heroku.com) for free ([account verificat
  - [Redis](https://redis.io/) as a Message Broker and Cache Backend   
  - [Daphne](https://github.com/django/daphne) as a HTTP and WebSocket protocol server
  - [Heroku](https://www.heroku.com) as a Hosting Platform
+ 
+## Frontend Android Application
+ - Thanks to [Ahmet Özrahat](https://github.com/ahmetozrahat25) for building the front-end android application for the chatbot.
+ - You can find the repo [here](https://github.com/ahmetozrahat25/health-ai).
 
 
 ## Supported commands
