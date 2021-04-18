@@ -16,7 +16,7 @@ You can host it on [Heroku](https://www.heroku.com) for free ([account verificat
  - run celery app: `celery -A project worker -l INFO`
  - `python manage.py runserver`
  - If you get an nltk error or if the session is closed unexpectedly you may need to download nltk manually
- - run: `import nlkt` & then `nltk.download('punkt')`
+ - run: `import nlkt` and  `nltk.download('punkt')` and `nltk.download('wordnet')`
 
 ## Technology Stack
  - [Django](https://www.djangoproject.com/) as a main Web Framework
