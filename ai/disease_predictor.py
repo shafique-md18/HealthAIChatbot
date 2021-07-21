@@ -11,7 +11,7 @@ LABELS = ['(vertigo) Paroymsal  Positional Vertigo', 'AIDS', 'Acne', 'Alcoholic 
 
 DISEASE_MODEL = load_model(getAbsPath('disease_model.h5'))
 
-SYMPTOMS_PATTERNS = json.loads(open("symptoms.json"))
+SYMPTOMS_PATTERNS = json.loads(open(getAbsPath("symptoms.json")).read())
 
 def get_symp_pd(symptoms_list):
     s_dict = copy.deepcopy(SYMPTOMS)
@@ -32,6 +32,7 @@ def get_disease_name(symptoms_list):
 
 def get_disease_msg(msg):
     symp_list = gen_symp_list(msg)
+    print(symp_list)
     return 'You might have ' + get_disease_name(symp_list)
 
 def gen_symp_list(symp_str):

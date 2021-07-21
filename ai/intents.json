@@ -36,12 +36,8 @@
          "context": [""],
          "code": 15
         },
-        {"tag": "predict_disease",
-         "patterns": ["I am experiencing some health issues", 
-            "I don't feel well", "I am not feeling well",
-            "I am having some trouble",
-            "predict a disease",
-            "disease", "symptom"],
+        {"tag": "problem",
+         "patterns": ["I have", "symptom", "my symptoms are", "my symptom", "my symptom are"],
          "responses": ["navigating to disease prediction module..."],
          "context": [""],
          "code": 16
@@ -81,6 +77,15 @@
          "responses": ["navigating to edit profile module"],
          "context": [""],
          "code": 22
+        },
+        {"tag": "predict_disease",
+         "patterns": ["I am experiencing some health issues", 
+            "I don't feel well", "I am not feeling well",
+            "I am having some trouble",
+            "predict a disease", "disease"],
+         "responses": ["Please tell me the symptoms you are experiencing"],
+         "context": [""],
+         "code": 23
         }
    ]
 }

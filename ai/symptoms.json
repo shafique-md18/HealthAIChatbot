@@ -3,49 +3,49 @@
 	  {
 		"name": "itching",
 		"patterns": [
-		  "itching"
+		  "itching", "itch"
 		]
 	  },
 	  {
 		"name": "skin_rash",
 		"patterns": [
-		  "skin_rash"
+		  "skin_rash", "skin rash"
 		]
 	  },
 	  {
 		"name": "nodal_skin_eruptions",
 		"patterns": [
-		  "nodal_skin_eruptions"
+		  "nodal_skin_eruptions", "nodal skin eruptions"
 		]
 	  },
 	  {
 		"name": "continuous_sneezing",
 		"patterns": [
-		  "continuous_sneezing"
+		  "continuous_sneezing", "continuous sneezing", "sneezing"
 		]
 	  },
 	  {
 		"name": "shivering",
 		"patterns": [
-		  "shivering"
+		  "shivering", "shiver", "shiverring"
 		]
 	  },
 	  {
 		"name": "chills",
 		"patterns": [
-		  "chills"
+		  "chills", "chill"
 		]
 	  },
 	  {
 		"name": "joint_pain",
 		"patterns": [
-		  "joint_pain"
+		  "joint_pain", "joint pain"
 		]
 	  },
 	  {
 		"name": "stomach_pain",
 		"patterns": [
-		  "stomach_pain"
+		  "stomach_pain", "stomach pain", "stomach ache", "pain in stomach"
 		]
 	  },
 	  {
@@ -57,7 +57,7 @@
 	  {
 		"name": "ulcers_on_tongue",
 		"patterns": [
-		  "ulcers_on_tongue"
+		  "ulcers_on_tongue", "ulcer", "ulcers", "ulcers on tongue"
 		]
 	  },
 	  {
@@ -69,7 +69,7 @@
 	  {
 		"name": "vomiting",
 		"patterns": [
-		  "vomiting"
+		  "vomiting", "vomit"
 		]
 	  },
 	  {
@@ -87,37 +87,37 @@
 	  {
 		"name": "fatigue",
 		"patterns": [
-		  "fatigue"
+		  "fatigue", "weakness", "weak"
 		]
 	  },
 	  {
 		"name": "weight_gain",
 		"patterns": [
-		  "weight_gain"
+		  "weight_gain", "weight gain", "gain in weight", "weight gains"
 		]
 	  },
 	  {
 		"name": "anxiety",
 		"patterns": [
-		  "anxiety"
+		  "anxiety", "stress"
 		]
 	  },
 	  {
 		"name": "cold_hands_and_feets",
 		"patterns": [
-		  "cold_hands_and_feets"
+		  "cold_hands_and_feets", "cold hand", "cold feet", "cold hands and feet"
 		]
 	  },
 	  {
 		"name": "mood_swings",
 		"patterns": [
-		  "mood_swings"
+		  "mood_swings", "mood swing"
 		]
 	  },
 	  {
 		"name": "weight_loss",
 		"patterns": [
-		  "weight_loss"
+		  "weight_loss", "weight loss", "loss in weight"
 		]
 	  },
 	  {
@@ -135,13 +135,13 @@
 	  {
 		"name": "patches_in_throat",
 		"patterns": [
-		  "patches_in_throat"
+		  "patches_in_throat", "patches in throat"
 		]
 	  },
 	  {
 		"name": "irregular_sugar_level",
 		"patterns": [
-		  "irregular_sugar_level"
+		  "irregular_sugar_level", "irregular sugar level"
 		]
 	  },
 	  {
@@ -153,7 +153,7 @@
 	  {
 		"name": "high_fever",
 		"patterns": [
-		  "high_fever"
+		  "high_fever", "fever"
 		]
 	  },
 	  {
@@ -171,7 +171,7 @@
 	  {
 		"name": "sweating",
 		"patterns": [
-		  "sweating"
+		  "sweating", "sweat"
 		]
 	  },
 	  {
@@ -195,13 +195,13 @@
 	  {
 		"name": "yellowish_skin",
 		"patterns": [
-		  "yellowish_skin"
+		  "yellowish_skin", "yellowish skin", "yellow skin"
 		]
 	  },
 	  {
 		"name": "dark_urine",
 		"patterns": [
-		  "dark_urine"
+		  "dark_urine", "dark urine"
 		]
 	  },
 	  {
@@ -213,19 +213,19 @@
 	  {
 		"name": "loss_of_appetite",
 		"patterns": [
-		  "loss_of_appetite"
+		  "loss_of_appetite", "loss of appetite"
 		]
 	  },
 	  {
 		"name": "pain_behind_the_eyes",
 		"patterns": [
-		  "pain_behind_the_eyes"
+		  "pain_behind_the_eyes", "pain behind the eyes", "pain behind eyes", "pain in eyes"
 		]
 	  },
 	  {
 		"name": "back_pain",
 		"patterns": [
-		  "back_pain"
+		  "back_pain", "back pain"
 		]
 	  },
 	  {
@@ -237,7 +237,7 @@
 	  {
 		"name": "abdominal_pain",
 		"patterns": [
-		  "abdominal_pain"
+		  "abdominal_pain", "abdominal pain"
 		]
 	  },
 	  {
@@ -249,25 +249,25 @@
 	  {
 		"name": "mild_fever",
 		"patterns": [
-		  "mild_fever"
+		  "mild_fever", "mild fever"
 		]
 	  },
 	  {
 		"name": "yellow_urine",
 		"patterns": [
-		  "yellow_urine"
+		  "yellow_urine", "yellow urine"
 		]
 	  },
 	  {
 		"name": "yellowing_of_eyes",
 		"patterns": [
-		  "yellowing_of_eyes"
+		  "yellowing_of_eyes", "yellowing of eyes", "yellow eyes"
 		]
 	  },
 	  {
 		"name": "acute_liver_failure",
 		"patterns": [
-		  "acute_liver_failure"
+		  "acute_liver_failure", "liver failure", "acute liver failure"
 		]
 	  },
 	  {
@@ -279,7 +279,7 @@
 	  {
 		"name": "swelling_of_stomach",
 		"patterns": [
-		  "swelling_of_stomach"
+		  "swelling_of_stomach", "swelling of stomach", "swelling in stomach", "stomach swelling"
 		]
 	  },
 	  {
@@ -309,13 +309,13 @@
 	  {
 		"name": "throat_irritation",
 		"patterns": [
-		  "throat_irritation"
+		  "throat_irritation", "throat irritation", "irritation in throat"
 		]
 	  },
 	  {
 		"name": "redness_of_eyes",
 		"patterns": [
-		  "redness_of_eyes"
+		  "redness_of_eyes", "red eyes", "reddness in eyes"
 		]
 	  },
 	  {
@@ -327,7 +327,7 @@
 	  {
 		"name": "runny_nose",
 		"patterns": [
-		  "runny_nose"
+		  "runny_nose", "runny nose"
 		]
 	  },
 	  {
@@ -339,19 +339,19 @@
 	  {
 		"name": "chest_pain",
 		"patterns": [
-		  "chest_pain"
+		  "chest_pain", "chest pain"
 		]
 	  },
 	  {
 		"name": "weakness_in_limbs",
 		"patterns": [
-		  "weakness_in_limbs"
+		  "weakness_in_limbs", "weakness in limbs"
 		]
 	  },
 	  {
 		"name": "fast_heart_rate",
 		"patterns": [
-		  "fast_heart_rate"
+		  "fast_heart_rate", "fast heart rate", "fast heartrate", "fast heartbeat"
 		]
 	  },
 	  {
@@ -387,7 +387,7 @@
 	  {
 		"name": "dizziness",
 		"patterns": [
-		  "dizziness"
+		  "dizziness", "dizzy"
 		]
 	  },
 	  {
@@ -399,7 +399,7 @@
 	  {
 		"name": "bruising",
 		"patterns": [
-		  "bruising"
+		  "bruising", "bruise"
 		]
 	  },
 	  {
@@ -423,7 +423,7 @@
 	  {
 		"name": "puffy_face_and_eyes",
 		"patterns": [
-		  "puffy_face_and_eyes"
+		  "puffy_face_and_eyes", "puffy face and eyes"
 		]
 	  },
 	  {
@@ -471,37 +471,37 @@
 	  {
 		"name": "knee_pain",
 		"patterns": [
-		  "knee_pain"
+		  "knee_pain", "knee pain"
 		]
 	  },
 	  {
 		"name": "hip_joint_pain",
 		"patterns": [
-		  "hip_joint_pain"
+		  "hip_joint_pain", "hip pain", "hip joint pain"
 		]
 	  },
 	  {
 		"name": "muscle_weakness",
 		"patterns": [
-		  "muscle_weakness"
+		  "muscle_weakness", "weak muscle", "muscle weak"
 		]
 	  },
 	  {
 		"name": "stiff_neck",
 		"patterns": [
-		  "stiff_neck"
+		  "stiff_neck", "stiff neck", "stiffness in neck"
 		]
 	  },
 	  {
 		"name": "swelling_joints",
 		"patterns": [
-		  "swelling_joints"
+		  "swelling_joints", "swollen joints", "swelling joint"
 		]
 	  },
 	  {
 		"name": "movement_stiffness",
 		"patterns": [
-		  "movement_stiffness"
+		  "movement_stiffness", "movement stiffness", "difficulty in movement"
 		]
 	  },
 	  {
@@ -513,7 +513,7 @@
 	  {
 		"name": "loss_of_balance",
 		"patterns": [
-		  "loss_of_balance"
+		  "loss_of_balance", "loss of balance"
 		]
 	  },
 	  {
@@ -531,7 +531,7 @@
 	  {
 		"name": "loss_of_smell",
 		"patterns": [
-		  "loss_of_smell"
+		  "loss_of_smell", "loss of smell", "no smell"
 		]
 	  },
 	  {
@@ -585,7 +585,7 @@
 	  {
 		"name": "muscle_pain",
 		"patterns": [
-		  "muscle_pain"
+		  "muscle_pain", "muscle pain", "pain in muscle"
 		]
 	  },
 	  {
@@ -597,13 +597,13 @@
 	  {
 		"name": "red_spots_over_body",
 		"patterns": [
-		  "red_spots_over_body"
+		  "red_spots_over_body", "red spots over body", "red spot over body", "red spot on body", "red spots on body", "red spots on my body"
 		]
 	  },
 	  {
 		"name": "belly_pain",
 		"patterns": [
-		  "belly_pain"
+		  "belly_pain", "belly pain"
 		]
 	  },
 	  {
@@ -621,13 +621,13 @@
 	  {
 		"name": "watering_from_eyes",
 		"patterns": [
-		  "watering_from_eyes"
+		  "watering_from_eyes", "watering from eyes", "watery eyes"
 		]
 	  },
 	  {
 		"name": "increased_appetite",
 		"patterns": [
-		  "increased_appetite"
+		  "increased_appetite", "increased appetite", "increase in appetite"
 		]
 	  },
 	  {
@@ -657,7 +657,7 @@
 	  {
 		"name": "lack_of_concentration",
 		"patterns": [
-		  "lack_of_concentration"
+		  "lack_of_concentration", "lack of concentration"
 		]
 	  },
 	  {
@@ -687,7 +687,7 @@
 	  {
 		"name": "stomach_bleeding",
 		"patterns": [
-		  "stomach_bleeding"
+		  "stomach_bleeding", "stomach bleeding"
 		]
 	  },
 	  {
@@ -729,19 +729,19 @@
 	  {
 		"name": "painful_walking",
 		"patterns": [
-		  "painful_walking"
+		  "painful_walking", "painful walking"
 		]
 	  },
 	  {
 		"name": "pus_filled_pimples",
 		"patterns": [
-		  "pus_filled_pimples"
+		  "pus_filled_pimples", "pimple"
 		]
 	  },
 	  {
 		"name": "blackheads",
 		"patterns": [
-		  "blackheads"
+		  "blackheads", "blackhead"
 		]
 	  },
 	  {
@@ -753,7 +753,7 @@
 	  {
 		"name": "skin_peeling",
 		"patterns": [
-		  "skin_peeling"
+		  "skin_peeling", "skin peel"
 		]
 	  },
 	  {
@@ -783,7 +783,7 @@
 	  {
 		"name": "red_sore_around_nose",
 		"patterns": [
-		  "red_sore_around_nose"
+		  "red_sore_around_nose", "red sore around nose"
 		]
 	  },
 	  {
