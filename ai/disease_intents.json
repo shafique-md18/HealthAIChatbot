@@ -1,0 +1,495 @@
+{
+	"intents": [{
+			"tag": "(vertigo) Paroymsal  Positional Vertigo",
+			"patterns": [
+				"(vertigo) Paroymsal  Positional Vertigo"
+			],
+			"responses": [
+				"(vertigo) Paroymsal  Positional Vertigo"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "AIDS",
+			"patterns": [
+				"AIDS"
+			],
+			"responses": [
+				"AIDS"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Acne",
+			"patterns": [
+				"Acne"
+			],
+			"responses": [
+				"Acne"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Alcoholic hepatitis",
+			"patterns": [
+				"Alcoholic hepatitis"
+			],
+			"responses": [
+				"Alcoholic hepatitis"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Allergy",
+			"patterns": [
+				"Allergy"
+			],
+			"responses": [
+				"Allergy"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Arthritis",
+			"patterns": [
+				"Arthritis"
+			],
+			"responses": [
+				"Arthritis"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Bronchial Asthma",
+			"patterns": [
+				"Bronchial Asthma"
+			],
+			"responses": [
+				"Bronchial Asthma"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Cervical spondylosis",
+			"patterns": [
+				"Cervical spondylosis"
+			],
+			"responses": [
+				"Cervical spondylosis"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Chicken pox",
+			"patterns": [
+				"Chicken pox"
+			],
+			"responses": [
+				"Chicken pox"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Chronic cholestasis",
+			"patterns": [
+				"Chronic cholestasis"
+			],
+			"responses": [
+				"Chronic cholestasis"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Common Cold",
+			"patterns": [
+				"Common Cold"
+			],
+			"responses": [
+				"Common Cold"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Dengue",
+			"patterns": [
+				"Dengue"
+			],
+			"responses": [
+				"Dengue"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Diabetes ",
+			"patterns": [
+				"Diabetes "
+			],
+			"responses": [
+				"Diabetes "
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Dimorphic hemmorhoids(piles)",
+			"patterns": [
+				"Dimorphic hemmorhoids(piles)"
+			],
+			"responses": [
+				"Dimorphic hemmorhoids(piles)"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Drug Reaction",
+			"patterns": [
+				"Drug Reaction"
+			],
+			"responses": [
+				"Drug Reaction"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Fungal infection",
+			"patterns": [
+				"Fungal infection"
+			],
+			"responses": [
+				"Fungal infection"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "GERD",
+			"patterns": [
+				"GERD"
+			],
+			"responses": [
+				"GERD"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Gastroenteritis",
+			"patterns": [
+				"Gastroenteritis"
+			],
+			"responses": [
+				"Gastroenteritis"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Heart attack",
+			"patterns": [
+				"Heart attack"
+			],
+			"responses": [
+				"Heart attack"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Hepatitis B",
+			"patterns": [
+				"Hepatitis B"
+			],
+			"responses": [
+				"Hepatitis B"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Hepatitis C",
+			"patterns": [
+				"Hepatitis C"
+			],
+			"responses": [
+				"Hepatitis C"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Hepatitis D",
+			"patterns": [
+				"Hepatitis D"
+			],
+			"responses": [
+				"Hepatitis D"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Hepatitis E",
+			"patterns": [
+				"Hepatitis E"
+			],
+			"responses": [
+				"Hepatitis E"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Hypertension ",
+			"patterns": [
+				"Hypertension "
+			],
+			"responses": [
+				"Hypertension "
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Hyperthyroidism",
+			"patterns": [
+				"Hyperthyroidism"
+			],
+			"responses": [
+				"Hyperthyroidism"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Hypoglycemia",
+			"patterns": [
+				"Hypoglycemia"
+			],
+			"responses": [
+				"Hypoglycemia"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Hypothyroidism",
+			"patterns": [
+				"Hypothyroidism"
+			],
+			"responses": [
+				"Hypothyroidism"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Impetigo",
+			"patterns": [
+				"Impetigo"
+			],
+			"responses": [
+				"Impetigo"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Jaundice",
+			"patterns": [
+				"Jaundice"
+			],
+			"responses": [
+				"Jaundice"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Malaria",
+			"patterns": [
+				"Malaria"
+			],
+			"responses": [
+				"Malaria"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Migraine",
+			"patterns": [
+				"Migraine"
+			],
+			"responses": [
+				"Migraine"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Osteoarthristis",
+			"patterns": [
+				"Osteoarthristis"
+			],
+			"responses": [
+				"Osteoarthristis"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Paralysis (brain hemorrhage)",
+			"patterns": [
+				"Paralysis (brain hemorrhage)"
+			],
+			"responses": [
+				"Paralysis (brain hemorrhage)"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Peptic ulcer diseae",
+			"patterns": [
+				"Peptic ulcer diseae"
+			],
+			"responses": [
+				"Peptic ulcer diseae"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Pneumonia",
+			"patterns": [
+				"Pneumonia"
+			],
+			"responses": [
+				"Pneumonia"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Psoriasis",
+			"patterns": [
+				"Psoriasis"
+			],
+			"responses": [
+				"Psoriasis"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Tuberculosis",
+			"patterns": [
+				"Tuberculosis"
+			],
+			"responses": [
+				"Tuberculosis"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Typhoid",
+			"patterns": [
+				"Typhoid"
+			],
+			"responses": [
+				"Typhoid"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Urinary tract infection",
+			"patterns": [
+				"Urinary tract infection"
+			],
+			"responses": [
+				"Urinary tract infection"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "Varicose veins",
+			"patterns": [
+				"Varicose veins"
+			],
+			"responses": [
+				"Varicose veins"
+			],
+			"context": [
+				""
+			]
+		},
+		{
+			"tag": "hepatitis A",
+			"patterns": [
+				"hepatitis A"
+			],
+			"responses": [
+				"hepatitis A"
+			],
+			"context": [
+				""
+			]
+		}
+	]
+}

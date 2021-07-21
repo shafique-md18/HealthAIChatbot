@@ -6,13 +6,10 @@ import numpy as np
 import json
 import random
 from keras.models import load_model
+from .disease_predictor import get_disease_msg
 import os
+from .utils import getAbsPath
 
-
-def getAbsPath(filename):
-    THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
-    return os.path.join(THIS_FOLDER, filename)
-    
 
 model = load_model(getAbsPath('chatbot_model.h5'))
 intents = json.loads(open(getAbsPath('intents.json')).read())
@@ -69,5 +66,8 @@ def getResponse(ints, intents_json):
 def chatbot_response(msg):
     ints = predict_class(msg, model)
     res = getResponse(ints, intents)
+    # predict disease
+    if (res[1] == 16):
+        return (get_disease_msg(msg), 16)
     return res
 
